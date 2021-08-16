@@ -64,8 +64,9 @@ export default function Home() {
           </span>
         </a>
       </footer>
+      {console.log("Hello world")}
     </div>
-    
+  
   )
-  {console.log("Hello World")} 
+  
 }
